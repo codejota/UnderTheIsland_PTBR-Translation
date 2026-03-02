@@ -60,6 +60,17 @@ mv ~/Downloads/lang.json ./lang.json
 
 ```
 
+### 5. Inicie o jogo
+
+Agora, ao iniciar o jogo, ele deve carregar a nova tradução em português brasileiro, basta selecionar o idiona Deutch (Alemão) nas opções de idioma, pois o jogo não tem suporte para PT-BR, mas a tradução foi feita com base na versão alemã para garantir a integridade do arquivo JSON.
+
+<div align="center">
+<img src="img/print4.png" alt="Localização da pasta">
+</div>
+
+> [!WARNING]
+> **Limitação Técnica:** Já foi dito no inicio do post, mas novamente,O jogo não aceita UTF-8 nativamente em todos os campos, então alguns textos estarão sem acentuação ou cedilha (ç) para evitar bugs visuais.
+
 ---
 
 > [!IMPORTANT]
