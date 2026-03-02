@@ -65,6 +65,16 @@ mv ~/Downloads/lang.json ./lang.json
 > [!IMPORTANT]
 > **Aviso de Versão:** Esta tradução foi feita com base na versão **0.9.5.0** do jogo. Caso o jogo atualize, verifique este repositório para obter a versão mais recente e garantir a compatibilidade.
 
+Se você seguiu todos os passos corretamente, o jogo agora deve estar em português brasileiro!
+
+<div align="center">
+<img src="img/print3.png" alt="Localização da pasta">
+</div>
+
+Aproveite bastante o jogo, lembrando que você pode comprar o jogo para apoiar o desenvolvimento e garantir futuras atualizações da tradução! - >
+
+Link Steam: [Under the Island - Steam](https://store.steampowered.com/app/1583520/Under_The_Island/)
+
 <div align="center">
 <img src="img/hr.svg" alt="wolf hr">
 </div>
@@ -77,4 +87,4 @@ Se você encontrar algum erro de digitação, termos fora de contexto ou quiser 
 
 ---
 
-Feito com ❤️ por @jotacode | [jotacode.dev](https://jotacode.dev) |
+Feito com ❤️ por @jotacode | Confira outros projetos em: [jotacode.dev](https://jotacode.dev) |
