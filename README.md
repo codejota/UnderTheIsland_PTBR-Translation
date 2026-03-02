@@ -10,7 +10,11 @@
 
 Este repositório contém o arquivo de tradução para português brasileiro (PT-BR). O projeto foi baseado na versão alemã para garantir a integridade do arquivo JSON e evitar erros de sintaxe.
 
-## 🛠️ Instalação
+## Limitação Técnica
+
+Limitação Técnica: O jogo não aceita UTF-8 nativamente em todos os campos, então alguns textos estarão sem acentuação ou cedilha (ç) para evitar bugs visuais.
+
+### 🛠️ Instalação
 
 <div align="center">
 <img src="img/hr.svg" alt="wolf hr">
@@ -65,13 +69,7 @@ mv ~/Downloads/lang.json ./lang.json
 <img src="img/hr.svg" alt="wolf hr">
 </div>
 
----
-
-<div align="center">
-  <img src="img/hr.svg" alt="wolf hr">
-</div>
-
-## 🤝 Contribuições
+### 🤝 Contribuições
 
 Curtiu o projeto? Deixe uma **Star ⭐** no repositório!
 
